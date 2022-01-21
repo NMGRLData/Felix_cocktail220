@@ -12,40 +12,166 @@
         "value": 0.00373004376452181
     },
     "Ar37": {
-        "error": 0.012955499952933354,
+        "error": 0.004947576924579477,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
-                "exclude": false,
-                "record_id": "bu-FD-F-2267"
+                "exclude": "ok",
+                "record_id": "bc-03-F-428",
+                "uuid": "df2ff360-16ef-4339-b070-eeb1172dee4f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-429",
+                "uuid": "d1ab1ce0-bf53-4acb-9bc3-3254573eb066"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-430",
+                "uuid": "14becda2-90af-4670-a56d-c30702765885"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-431",
+                "uuid": "f2516168-3692-46a7-a4d0-34eaabad75f5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-432",
+                "uuid": "adc27e32-cbf8-4668-a73e-091c55251c58"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-433",
+                "uuid": "180226bc-7898-4bef-9818-0e0d6bb2ad0e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-434",
+                "uuid": "93d45e94-c7c8-40e3-acbf-25ed156f1f3a"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-435",
+                "uuid": "b0c88603-b920-4274-a835-a7cd509ed4fc"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-436",
+                "uuid": "93811465-4ba2-4fb8-a308-22dc78e8bf37"
             }
         ],
-        "value": 0.011005778744609812
+        "reviewed": true,
+        "value": 0.011908740883082627
     },
     "Ar38": {
-        "error": 0.004499735397489113,
+        "error": 0.0017757322619835615,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
-                "exclude": false,
-                "record_id": "bu-FD-F-2267"
+                "exclude": "ok",
+                "record_id": "bc-03-F-428",
+                "uuid": "df2ff360-16ef-4339-b070-eeb1172dee4f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-429",
+                "uuid": "d1ab1ce0-bf53-4acb-9bc3-3254573eb066"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-430",
+                "uuid": "14becda2-90af-4670-a56d-c30702765885"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-431",
+                "uuid": "f2516168-3692-46a7-a4d0-34eaabad75f5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-432",
+                "uuid": "adc27e32-cbf8-4668-a73e-091c55251c58"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-433",
+                "uuid": "180226bc-7898-4bef-9818-0e0d6bb2ad0e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-434",
+                "uuid": "93d45e94-c7c8-40e3-acbf-25ed156f1f3a"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-435",
+                "uuid": "b0c88603-b920-4274-a835-a7cd509ed4fc"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-436",
+                "uuid": "93811465-4ba2-4fb8-a308-22dc78e8bf37"
             }
         ],
-        "value": 0.002431180586121545
+        "reviewed": true,
+        "value": 0.004959104695166696
     },
     "Ar39": {
-        "error": 0.011749931665117347,
+        "error": 0.0027905629299142453,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
-                "exclude": false,
-                "record_id": "bu-FD-F-2267"
+                "exclude": "ok",
+                "record_id": "bc-03-F-428",
+                "uuid": "df2ff360-16ef-4339-b070-eeb1172dee4f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-429",
+                "uuid": "d1ab1ce0-bf53-4acb-9bc3-3254573eb066"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-430",
+                "uuid": "14becda2-90af-4670-a56d-c30702765885"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-431",
+                "uuid": "f2516168-3692-46a7-a4d0-34eaabad75f5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-432",
+                "uuid": "adc27e32-cbf8-4668-a73e-091c55251c58"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-433",
+                "uuid": "180226bc-7898-4bef-9818-0e0d6bb2ad0e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-434",
+                "uuid": "93d45e94-c7c8-40e3-acbf-25ed156f1f3a"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-435",
+                "uuid": "b0c88603-b920-4274-a835-a7cd509ed4fc"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-436",
+                "uuid": "93811465-4ba2-4fb8-a308-22dc78e8bf37"
             }
         ],
-        "value": 0.026437438916934203
+        "reviewed": true,
+        "value": 0.011495743778630454
     },
     "Ar40": {
         "error": 0.025096844157241505,
