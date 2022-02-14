@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "90e4726b5fe8aac78b86d9760fbde6f413d4bf84",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "10-hole",
+    "load_name": "D0103",
+    "measured_response": "hxXETgAAAAAwjII+AAD6RCFUEEAAAPpEuiOIQAAA+kRIJMhAAAD6RKAaBEEAAPpE8hckQQAA+kS8MkRBAAD6RHQwZEEAAPpEmjKCQQAA+kQXMpJBAAD6RFsyokEAAPpErUGyQQAA+kTPU8JBAAD6RIVY0kEAAPpElnviQQAA+kRij/JBAAD6RNFNAUIAAPpE6k8JQgAA+kSvVBFCAAD6RPJVGUIAAPpE41khQgAA+kTQWSlCAAD6RFdhMUIAAPpECWI5QgAA+kT+aEFCAAD6RNpySUIAAPpEq4RRQgAA+kRejFlCAAD6RLqPYUIAAPpEspRpQgAA+kROlnFCAAD6RBGZeUIAAPpEr82AQgAA+kQj1YRCAAD6RDTYiEIAAPpEXtyMQgAA+kT63JBCAAD6RB7hlEIAAPpET+SYQgAA+kQG5JxCAAD6RDHmoEIAAPpE1uakQgAA+kQj7ahCAAD6RKburEIAAPpEVPGwQgAA+kTL8bRCAAD6RMD0uEIAAPpEyvW8QgAA+kS8+cBCAAD6REP5xEIAAPpES/nIQgAA+kTq+MxCAAD6RAX60EIAAPpEt/rUQgAA+kRJ/NhCAAD6RO/73EIAAPpE",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": null,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "hxXETgAAAAAwjII+qbDlQSFUEEAAAAAAuiOIQAAAAABIJMhAAAAAAKAaBEEAAAAA8hckQQAAAAC8MkRB0QMIQnQwZEHRAwhCmjKCQdEDCEIXMpJB0QMIQlsyokHRAwhCrUGyQdEDCELPU8JB0QMIQoVY0kHRAwhClnviQdEDCEJij/JB0QMIQtFNAULRAwhC6k8JQtEDCEKvVBFC0QMIQvJVGULRAwhC41khQtEDCELQWSlC0QMIQldhMULRAwhCCWI5QtEDCEL+aEFC0QMIQtpySULRAwhCq4RRQtEDCEJejFlC0QMIQrqPYULRAwhCspRpQtEDCEJOlnFC0QMIQhGZeULRAwhCr82AQtEDCEIj1YRC0QMIQjTYiELRAwhCXtyMQtEDCEL63JBC0QMIQh7hlELRAwhCT+SYQtEDCEIG5JxC0QMIQjHmoELRAwhC1uakQtEDCEIj7ahC0QMIQqburELRAwhCVPGwQtEDCELL8bRC0QMIQsD0uELRAwhCyvW8QtEDCEK8+cBC0QMIQkP5xELRAwhCS/nIQtEDCELq+MxC0QMIQgX60ELRAwhCt/rUQtEDCEJJ/NhC0QMIQu/73ELRAwhC",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "10-hole",
+    "videos": [],
+    "weight": 102.7
+}
