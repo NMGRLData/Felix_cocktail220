@@ -1,15 +1,57 @@
 {
     "Ar36": {
-        "error": 0.00014186781879915045,
+        "error": 0.000296635253119767,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average_SD",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-F-357"
+                "exclude": "ok",
+                "record_id": "ba-03-F-356",
+                "uuid": "3558425d-738b-4ca1-a12e-afdc40831a96"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-484",
+                "uuid": "d61d9483-9843-48b3-acaa-66f8328501c3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-357",
+                "uuid": "fc1c6fa8-d0a3-4122-a8d6-cbec8a32ebd2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-485",
+                "uuid": "9fb58e31-1136-4254-8b79-79103ae867de"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-358",
+                "uuid": "97cfec4c-fe13-40a5-aa32-ff16fe46fb91"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-359",
+                "uuid": "a081622c-7012-4c39-affa-222190bb517d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-486",
+                "uuid": "7fd15ab0-ba4f-4d2f-bddf-c1fa8125288e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-360",
+                "uuid": "2a951a2c-c4a4-46e7-aad1-39a70fa0e194"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-487",
+                "uuid": "d41b76c6-79e3-4f98-9497-8d74a5ee7dce"
             }
         ],
-        "value": 0.0008329814348026676
+        "reviewed": true,
+        "value": 0.0009831438150625965
     },
     "Ar37": {
         "error": 0.0054200560696006225,
@@ -324,15 +366,57 @@
         "value": 0.007282379497325718
     },
     "Ar40": {
-        "error": 0.02389114825168023,
+        "error": 0.009882215426546718,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-F-357"
+                "exclude": "ok",
+                "record_id": "ba-03-F-356",
+                "uuid": "3558425d-738b-4ca1-a12e-afdc40831a96"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-484",
+                "uuid": "d61d9483-9843-48b3-acaa-66f8328501c3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-357",
+                "uuid": "fc1c6fa8-d0a3-4122-a8d6-cbec8a32ebd2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-485",
+                "uuid": "9fb58e31-1136-4254-8b79-79103ae867de"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-358",
+                "uuid": "97cfec4c-fe13-40a5-aa32-ff16fe46fb91"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-359",
+                "uuid": "a081622c-7012-4c39-affa-222190bb517d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-486",
+                "uuid": "7fd15ab0-ba4f-4d2f-bddf-c1fa8125288e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-03-F-360",
+                "uuid": "2a951a2c-c4a4-46e7-aad1-39a70fa0e194"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-F-487",
+                "uuid": "d41b76c6-79e3-4f98-9497-8d74a5ee7dce"
             }
         ],
-        "value": 0.07058107340535458
+        "reviewed": true,
+        "value": 0.08252821713064175
     }
 }
