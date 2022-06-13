@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "178619db36e09fa300f0f72760114a9d36f04079",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "10-hole",
+    "load_name": "D0118",
+    "measured_response": "807FTgAAAABgygA+AAD6RJs/CEAAAPpEKi+EQAAA+kT2KMRAAAD6RIcQAkEAAPpElCYiQQAA+kQKOEJBAAD6RMVRYkEAAPpEODCBQQAA+kStLpFBAAD6ROosoUEAAPpECiuxQQAA+kS0KsFBAAD6RLwo0UEAAPpE4SbhQQAA+kTDJ/FBAAD6RMiXAEIAAPpEfZgIQgAA+kSRlxBCAAD6REKgGEIAAPpEYqEgQgAA+kSMoyhCAAD6RF2mMEIAAPpEdKU4QgAA+kQavkBCAAD6RHTASEIAAPpEwMRQQgAA+kTDw1hCAAD6RAPEYEIAAPpE8sNoQgAA+kQKyXBCAAD6RNPLeEIAAPpEgGWAQgAA+kQRaIRCAAD6RFNpiEIAAPpE4miMQgAA+kRyaJBCAAD6RBFolEIAAPpEe2qYQgAA+kTYapxCAAD6RKNqoEIAAPpEB2ukQgAA+kSYaqhCAAD6RCRqrEIAAPpE/WmwQgAA+kRGa7RCAAD6RCpruEIAAPpElm28QgAA+kQabcBCAAD6RKFsxEIAAPpEJmzIQgAA+kShbMxCAAD6RJRt0EIAAPpEJ23UQgAA+kQ=",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": null,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "807FTgAAAABgygA+YTnUQZs/CEAAAAAAKi+EQAAAAAD2KMRAAAAAAIcQAkEAAAAAlCYiQT9drUEKOEJBbdLaQcVRYkHwyAJCODCBQXOXF0KtLpFBTW4sQuosoUHptjFCCiuxQem2MUK0KsFB6bYxQrwo0UHptjFC4SbhQem2MULDJ/FB6bYxQsiXAELptjFCfZgIQum2MUKRlxBC6bYxQkKgGELptjFCYqEgQum2MUKMoyhC6bYxQl2mMELptjFCdKU4Qum2MUIavkBC6bYxQnTASELptjFCwMRQQum2MULDw1hC6bYxQgPEYELptjFC8sNoQum2MUIKyXBC6bYxQtPLeELptjFCgGWAQj9drUERaIRCbdLaQVNpiELwyAJC4miMQnOXF0JyaJBCTW4sQhFolELptjFCe2qYQum2MULYapxC6bYxQqNqoELptjFCB2ukQum2MUKYaqhC6bYxQiRqrELptjFC/WmwQum2MUJGa7RC6bYxQipruELptjFClm28Qum2MUIabcBC6bYxQqFsxELptjFCJmzIQum2MUKhbMxC6bYxQpRt0ELptjFCJ23UQum2MUI=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "10-hole",
+    "videos": [],
+    "weight": 0
+}
