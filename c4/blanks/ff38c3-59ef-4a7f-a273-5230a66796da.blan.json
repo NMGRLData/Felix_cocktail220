@@ -44,7 +44,7 @@
         "value": 0.0008454962388672473
     },
     "Ar37": {
-        "error": 0.0044116383936338675,
+        "error": 0.01959622777798029,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -185,10 +185,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.005682666472545711
+        "value": 0.005609291890204645
     },
     "Ar38": {
-        "error": 0.0015266582316495719,
+        "error": 0.005254635995277989,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -329,10 +329,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00274292088126459
+        "value": 0.002822852253042936
     },
     "Ar39": {
-        "error": 0.0021989759505823916,
+        "error": 0.007935764367365664,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -473,7 +473,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00988469587788511
+        "value": 0.009847071121364086
     },
     "Ar40": {
         "error": 0.007963705986209891,
