@@ -24,7 +24,7 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.00043037300540068165,
+        "error": 0.000410597452571986,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -115,6 +115,6 @@
         ],
         "reviewed": true,
         "standard_ratio": 295.5,
-        "value": 1.022767978949626
+        "value": 1.0230405900195192
     }
 }
