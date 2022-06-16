@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00025364193316039887,
+        "error": 0.0002536419331603996,
         "error_type": "",
         "fit": "Average_SD",
         "references": [
@@ -476,9 +476,9 @@
         "value": 0.009847071121364086
     },
     "Ar40": {
-        "error": 0.007963705986209891,
+        "error": 0.03373017754684504,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -517,6 +517,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.07718924778879366
+        "value": 0.08461656228665718
     }
 }
