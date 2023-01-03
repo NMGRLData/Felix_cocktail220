@@ -656,9 +656,9 @@
         "value": 0.008159469799583041
     },
     "Ar40": {
-        "error": 0.010874756380108857,
+        "error": 0.04302933896419109,
         "error_type": "",
-        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -742,6 +742,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.08745242817913594
+        "value": 0.08683758535172659
     }
 }
